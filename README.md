@@ -18,7 +18,7 @@
 
 <h1 align="center">Computer Science Student</h1>
 <p>
-  Helo! I'm Brett, a student learning programming and computer science.
+  Hello! I'm Brett, a student learning programming and computer science.
 </p>
 
 <h3>Some interesting stats:</h3>
