@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" style="vertical-align:top; margin:6px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/swift.svg" style="vertical-align:top; margin:6px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" style="vertical-align:top; margin:6px">
 </p>
 
 <h1 align="center">Computer Science Student</h1>
