@@ -16,7 +16,7 @@
 <h2 align="center">Languages I am currently learning:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="vertical-align:top; margin:6px">
-  <img src="(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:6px">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin:6px">
 </p>
 
 <h1 align="center">Computer Science Student</h1>
