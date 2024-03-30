@@ -1,5 +1,9 @@
 # Some Capture the Flag Competitions I've Participated in:
 
+## PicoCTF 2024
+* Team: [apple haters](https://play.picoctf.org/teams/11162)
+* Ranked: 20th US Middle/High School 
+
 ## HSCTF 10
 * Team: apple haters
 * Ranked: 5th US Middle/High School, top 2% globally
