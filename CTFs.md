@@ -1,9 +1,9 @@
 # Some Capture the Flag Competitions I've Participated in:
 
-## FallCTF (Texas A&M University)
+## FallCTF 2024 (Texas A&M University)
 * Team: 4g
 * Ranked: 3rd (/49)
-* ![Graph of Top 10 Teams](./images/fallCTF.png)
+![Graph of Top 10 Teams](./images/fallCTF.png)
 
 ## PicoCTF 2024
 * Team: [apple haters](https://play.picoctf.org/teams/11162)
