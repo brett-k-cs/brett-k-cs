@@ -1,5 +1,10 @@
 # Some Capture the Flag Competitions I've Participated in:
 
+## TAMUctf 2025
+* Team: Toast
+* Ranked: 6th in division, 40/383 globally
+![TeamRanking](./images/tamuCTF25.png)
+
 ## FallCTF 2024 (Texas A&M University)
 * Team: 4g
 * Ranked: 3rd (/49)
