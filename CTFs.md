@@ -1,5 +1,10 @@
 # Some Capture the Flag Competitions I've Participated in:
 
+## FallCTF 2025 (Texas A&M University)
+* Team: Toast
+* Ranked: 4rd (/43)
+![TeamRanking](./images/fallCTF-25.png)
+
 ## TAMUctf 2025
 * Team: Toast
 * Ranked: 6th in division, 40/383 globally
@@ -27,3 +32,4 @@
 ## AFA CyberPatriot XV
 * Team: 15-5102 
 * Ranked: [2nd](https://www.uscyberpatriot.org/Documents/Scores/Protected%201417%202%20Feb%202023%20CP-XV%20SF%20Published%20Scores%20Final.xlsx) in Division Semifinals (MCJROTC)
+
